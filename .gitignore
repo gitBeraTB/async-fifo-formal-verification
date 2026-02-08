@@ -1,0 +1,20 @@
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cocotb & Simulator Artifacts
+sim_build/
+*.vcd
+*.fst
+*.vvp
+*.log
+results.xml
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
